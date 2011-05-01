@@ -1,0 +1,2 @@
+
+from pogovori.settings import *
